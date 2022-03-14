@@ -1,6 +1,6 @@
 # First-Steps-in-C-language
 This is my first experience using git, github and programing.<br>
-Here I'm gonna try lern the logics and with that make little applications.
+Here I'm gonna try to lern its logics and with that make little applications.
 ## <p><b>ALL FILES ARE IN MASTER BRANCH.</b></p>
 What have I done?<br>
 #### >First- Steps in C language -https://github.com/RodBarenco/First-Steps-in-C-language/tree/master/First%20steps%20-%20Primeiros%20passos<br>
