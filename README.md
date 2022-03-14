@@ -1,5 +1,5 @@
 # First-Steps-in-C-language
-This is my first experience using git, github and programing.<br>
+This is my first experience using git, github and programming.<br>
 Here I'm gonna try to lern its logics and with that make little applications.
 ## <p><b>ALL FILES ARE IN MASTER BRANCH.</b></p>
 What have I done?<br>
